@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StudentApp.ConsoleUI/StudentApp.ConsoleUI.csproj" />
+  <Project Path="StudentApp.DataAccess/StudentApp.DataAccess.csproj" />
+</Solution>

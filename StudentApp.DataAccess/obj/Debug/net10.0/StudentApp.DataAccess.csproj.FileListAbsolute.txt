@@ -1,0 +1,11 @@
+D:\Projects\lab 1\StudentApp.DataAccess\bin\Debug\net10.0\StudentApp.DataAccess.deps.json
+D:\Projects\lab 1\StudentApp.DataAccess\bin\Debug\net10.0\StudentApp.DataAccess.dll
+D:\Projects\lab 1\StudentApp.DataAccess\bin\Debug\net10.0\StudentApp.DataAccess.pdb
+D:\Projects\lab 1\StudentApp.DataAccess\obj\Debug\net10.0\StudentApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\lab 1\StudentApp.DataAccess\obj\Debug\net10.0\StudentApp.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\lab 1\StudentApp.DataAccess\obj\Debug\net10.0\StudentApp.DataAccess.AssemblyInfo.cs
+D:\Projects\lab 1\StudentApp.DataAccess\obj\Debug\net10.0\StudentApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\lab 1\StudentApp.DataAccess\obj\Debug\net10.0\StudentApp.DataAccess.dll
+D:\Projects\lab 1\StudentApp.DataAccess\obj\Debug\net10.0\refint\StudentApp.DataAccess.dll
+D:\Projects\lab 1\StudentApp.DataAccess\obj\Debug\net10.0\StudentApp.DataAccess.pdb
+D:\Projects\lab 1\StudentApp.DataAccess\obj\Debug\net10.0\ref\StudentApp.DataAccess.dll

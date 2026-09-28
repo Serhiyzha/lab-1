@@ -1,0 +1,47 @@
+[
+  {
+    "FirstName": "Олена",
+    "LastName": "Коваль",
+    "Course": 5,
+    "StudentCard": "KB123456",
+    "Gender": "Жіноча",
+    "City": "Київ",
+    "RecordBook": "101-А"
+  },
+  {
+    "FirstName": "Анна",
+    "LastName": "Шевченко",
+    "Course": 5,
+    "StudentCard": "KB123457",
+    "Gender": "Жіноча",
+    "City": "Київ",
+    "RecordBook": "102-А"
+  },
+  {
+    "FirstName": "Марія",
+    "LastName": "Бондаренко",
+    "Course": 3,
+    "StudentCard": "KB123458",
+    "Gender": "Жіноча",
+    "City": "Київ",
+    "RecordBook": "103-Б"
+  },
+  {
+    "FirstName": "Ірина",
+    "LastName": "Лисенко",
+    "Course": 5,
+    "StudentCard": "KB123459",
+    "Gender": "Жіноча",
+    "City": "Львів",
+    "RecordBook": "104-А"
+  },
+  {
+    "FirstName": "Олег",
+    "LastName": "Петренко",
+    "Course": 5,
+    "StudentCard": "KB123460",
+    "Gender": "Чоловіча",
+    "City": "Київ",
+    "RecordBook": "105-В"
+  }
+]
